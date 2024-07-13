@@ -1,0 +1,2 @@
+!function(e,o){"object"==typeof exports&&"object"==typeof module?module.exports=o():"function"==typeof define&&define.amd?define([],o):"object"==typeof exports?exports["auto-versioning"]=o():e["auto-versioning"]=o()}(self,(()=>(()=>{"use strict";return{}})()));
+//# sourceMappingURL=bundle.js.map

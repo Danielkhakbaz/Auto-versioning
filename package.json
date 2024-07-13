@@ -1,0 +1,40 @@
+{
+  "name": "@danielkhakbaz/auto-versioning",
+  "version": "1.0.0",
+  "description": "a simple package that with installing it you can change the version of your npm package simply.",
+  "main": "lib/index.ts",
+  "scripts": {
+    "build": "webpack --mode=production",
+    "format": "prettier --write ."
+  },
+  "keywords": [
+    "npm",
+    "npm-package",
+    "automation",
+    "version",
+    "auto-version"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Danielkhakbaz/Auto-versioning.git"
+  },
+  "author": "Danial Khakbaz",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.24.4",
+    "@babel/preset-env": "^7.24.4",
+    "@babel/preset-react": "^7.24.1",
+    "babel": "^6.23.0",
+    "prettier": "^3.2.5",
+    "source-map-loader": "^5.0.0",
+    "ts-loader": "^9.5.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "bugs": {
+    "url": "https://github.com/Danielkhakbaz/Auto-versioning/issues"
+  },
+  "homepage": "https://github.com/Danielkhakbaz/Auto-versioning#readme"
+}
